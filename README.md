@@ -16,3 +16,7 @@
         4,Tina,23,F
         5,Patrick,43,M
     ```
+
+# Misc
+
+Los datos estan guardados en una BD en Firebase, ya esta preconfigurado el acceso, por lo tanto solo es de instalar las dependencias y levantar el servidor.
